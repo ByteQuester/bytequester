@@ -23,7 +23,6 @@ From: 20 November 2023 - To: 21 November 2023
 Total Time: 32 mins
 
 Python     16 mins         >>>>>>>>>>>>-------------   48.27 %
-INI        2 mins          >>-----------------------   06.68 %
 Other      1 min           >------------------------   04.49 %
 ```
 
