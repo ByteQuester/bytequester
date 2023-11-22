@@ -16,4 +16,16 @@ Feel free to connect with me here!
 
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 20 November 2023 - To: 21 November 2023
+
+Total Time: 32 mins
+
+Python     16 mins         >>>>>>>>>>>>-------------   48.27 %
+Markdown   13 mins         >>>>>>>>>>---------------   38.98 %
+INI        2 mins          >>-----------------------   06.68 %
+Other      1 min           >------------------------   04.49 %
+```
+
 <!--END_SECTION:waka-->
