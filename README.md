@@ -8,7 +8,7 @@ Here's a little about me and what I'm passionate about:
 - 👯 I’m looking to collaborate on open source projects related to data analytics and software development.
 - 🤔 I’m looking for help with advanced Python programming techniques.
 - 💬 Ask me about anything related to tech, data, and programming - I love to share knowledge!
-- 📫 How to reach me: mehrdad.touraji@gmail.com or visit my website Capitabyte.com
+- 📫 How to reach me: mehrdad.touraji@gmail.com or visit my website www.capitabyte.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I enjoy playing music and experimenting with digital photography!
 
