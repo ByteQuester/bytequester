@@ -18,13 +18,15 @@ Feel free to connect with me here!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 November 2023 - To: 23 November 2023
+From: 20 November 2023 - To: 24 November 2023
 
-Total Time: 9 hrs 36 mins
+Total Time: 16 hrs 55 mins
 
-Python           6 hrs 36 mins   >>>>>>>>>>>>>>>>>--------   68.02 %
-JavaScript       30 mins         >------------------------   05.30 %
-Other            7 mins          -------------------------   01.21 %
+Python           12 hrs 9 mins   >>>>>>>>>>>>>>>>>>-------   71.33 %
+JavaScript       30 mins         >------------------------   03.02 %
+Text             18 mins         -------------------------   01.85 %
+GitIgnore file   8 mins          -------------------------   00.86 %
+Other            7 mins          -------------------------   00.69 %
 ```
 
 <!--END_SECTION:waka-->
