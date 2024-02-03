@@ -18,14 +18,14 @@ Feel free to connect with me here!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 November 2023 - To: 31 January 2024
+From: 20 November 2023 - To: 01 February 2024
 
-Total Time: 246 hrs 1 min
+Total Time: 250 hrs 19 mins
 
-Python             206 hrs 8 mins  >>>>>>>>>>>>>>>>>>>>-----   81.92 %
-SQL                6 hrs 3 mins    >------------------------   02.41 %
-Text               5 hrs 43 mins   >------------------------   02.27 %
-Other              5 hrs 35 mins   >------------------------   02.22 %
+Python             210 hrs 16 mins >>>>>>>>>>>>>>>>>>>>>----   82.14 %
+SQL                6 hrs 3 mins    >------------------------   02.37 %
+Text               5 hrs 45 mins   >------------------------   02.25 %
+Other              5 hrs 40 mins   >------------------------   02.21 %
 ```
 
 <!--END_SECTION:waka-->
