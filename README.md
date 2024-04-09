@@ -18,12 +18,12 @@ Feel free to connect with me here!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 November 2023 - To: 06 April 2024
+From: 20 November 2023 - To: 07 April 2024
 
-Total Time: 288 hrs 43 mins
+Total Time: 288 hrs 44 mins
 
-Python             215 hrs 18 mins >>>>>>>>>>>>>>>>>>-------   73.11 %
-Markdown           34 hrs 3 mins   >>>----------------------   11.57 %
+Python             215 hrs 18 mins >>>>>>>>>>>>>>>>>>-------   73.10 %
+Markdown           34 hrs 3 mins   >>>----------------------   11.56 %
 JSON               8 hrs 5 mins    >------------------------   02.75 %
 SQL                6 hrs 3 mins    >------------------------   02.06 %
 Text               5 hrs 58 mins   >------------------------   02.03 %
